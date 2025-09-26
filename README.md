@@ -96,12 +96,19 @@ print("Prediction for new input 2:", y_prednew2)
 
 ## Output:
 Read the file and display
+
 <img width="1046" height="366" alt="image" src="https://github.com/user-attachments/assets/f1f784a0-43ee-4fc3-b9e6-b7f66e3666a4" />
+
 Printing accuracy
+
 <img width="1003" height="29" alt="image" src="https://github.com/user-attachments/assets/9996dcff-e4ad-4a9a-b629-c3cc32962948" />
+
 Printing Y
+
 <img width="933" height="122" alt="image" src="https://github.com/user-attachments/assets/ab76af02-b797-4cbd-af91-89060c751e26" />
+
 Printing y_prednew
+
 <img width="868" height="47" alt="image" src="https://github.com/user-attachments/assets/868ac038-559f-4b21-b67c-699eeaaaa6b1" />
 
 ## Result:
